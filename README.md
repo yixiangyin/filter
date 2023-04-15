@@ -1,1 +1,2 @@
-# filter
+# Command line image filter
+
